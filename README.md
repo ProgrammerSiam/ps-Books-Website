@@ -1,6 +1,6 @@
 ### Demo Screeshots
   <a href="#" target="_blank">
-      <img src="https://github.com/ProgrammerSiam/ps-Burger-Website.git" alt="Project Banner">
+      <img src="https://i.ibb.co/x2wHCfw/book-website.jpg" alt="Project Banner">
     </a>
 
 ## Prerequisites
